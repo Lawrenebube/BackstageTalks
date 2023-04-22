@@ -86,7 +86,7 @@ footer a {
         margin: auto;
     }
     .container {
-        gap: 13em;
+        gap: 8em;
         font-size: 1.4rem;
         line-height: 1.5em;
     }
@@ -94,6 +94,9 @@ footer a {
         font-weight: 700;
         font-size: 1.3rem;
     } 
+    .issues {
+        min-height: 100vh;
+    }
     .issues img {
         width:22rem ;
         margin-bottom: 1em;
